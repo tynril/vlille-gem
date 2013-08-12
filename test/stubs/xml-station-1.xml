@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<station>
+  <adress>LMCU RUE DU BALLON </adress>
+  <status>0</status>
+  <bikes>6</bikes>
+  <attachs>30</attachs>
+  <paiement>AVEC_TPE</paiement>
+  <lastupd>2 secondes</lastupd>
+</station>

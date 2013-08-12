@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<station>
+  <adress>ANGLE PLACE RIHOUR RUE JEAN ROISIN </adress>
+  <status>0</status>
+  <bikes>12</bikes>
+  <attachs>20</attachs>
+  <paiement>SANS_TPE</paiement>
+  <lastupd>6 heure(s) 4 minute(s) 2 secondes</lastupd>
+</station>
