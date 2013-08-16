@@ -7,8 +7,8 @@ Gem::Specification.new do |s|
 	s.summary			= 'Easy access to the VLille data exposed by the official API.'
 	s.description	= 'Easy access to the VLille data exposed by the official API.'
 	
-	s.add_dependency	'httparty'	'~> 0.11.0'
-	s.add_dependency	'multi_xml'	'>= 0.5.2'
+	s.add_dependency	'httparty',		'~> 0.11.0'
+	s.add_dependency	'multi_xml',	'>= 0.5.2'
 
 	s.files				= `git ls-files`.split("\n")
 	s.test_files	= `git ls-files -- {test}/*`.split("\n")
